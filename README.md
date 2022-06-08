@@ -4,9 +4,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=feronik&show_icons=true&locale=en&layout=compact" alt="feronik" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fero1xd&show_icons=true&locale=en&layout=compact" alt="feronik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feronik&show_icons=true&locale=en" alt="feronik" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fero1xd&show_icons=true&locale=en" alt="feronik" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
